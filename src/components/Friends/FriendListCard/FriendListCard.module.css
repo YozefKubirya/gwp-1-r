@@ -1,0 +1,10 @@
+.container{
+  text-align: center;
+}
+.isOffline{
+color:red;
+}
+.isOnline{
+   color:green;
+};
+
